@@ -1,0 +1,29 @@
+D:\VB\double hesap makinesi\bin\Debug\double hesap makinesi.exe.config
+D:\VB\double hesap makinesi\bin\Debug\double hesap makinesi.exe
+D:\VB\double hesap makinesi\bin\Debug\double hesap makinesi.pdb
+D:\VB\double hesap makinesi\obj\Debug\double hesap makinesi.csprojAssemblyReference.cache
+D:\VB\double hesap makinesi\obj\Debug\double_hesap_makinesi.Form1.resources
+D:\VB\double hesap makinesi\obj\Debug\double_hesap_makinesi.Properties.Resources.resources
+D:\VB\double hesap makinesi\obj\Debug\double hesap makinesi.csproj.GenerateResource.cache
+D:\VB\double hesap makinesi\obj\Debug\double hesap makinesi.exe
+D:\VB\double hesap makinesi\obj\Debug\double hesap makinesi.pdb
+D:\VB\double hesap makinesi\bin\Debug\Interop.WMPLib.dll
+D:\VB\double hesap makinesi\bin\Debug\AxInterop.WMPLib.dll
+D:\VB\double hesap makinesi\obj\Debug\Interop.WMPLib.dll
+D:\VB\double hesap makinesi\obj\Debug\AxInterop.WMPLib.dll
+D:\VB\double hesap makinesi\obj\Debug\double hesap makinesi.csproj.ResolveComReference.cache
+D:\VB\hesap makinesi-2\bin\Debug\double hesap makinesi.exe.config
+D:\VB\hesap makinesi-2\bin\Debug\double hesap makinesi.exe
+D:\VB\hesap makinesi-2\bin\Debug\double hesap makinesi.pdb
+D:\VB\hesap makinesi-2\bin\Debug\Interop.WMPLib.dll
+D:\VB\hesap makinesi-2\bin\Debug\AxInterop.WMPLib.dll
+D:\VB\hesap makinesi-2\obj\Debug\double hesap makinesi.csprojAssemblyReference.cache
+D:\VB\hesap makinesi-2\obj\Debug\Interop.WMPLib.dll
+D:\VB\hesap makinesi-2\obj\Debug\AxInterop.WMPLib.dll
+D:\VB\hesap makinesi-2\obj\Debug\double hesap makinesi.csproj.ResolveComReference.cache
+D:\VB\hesap makinesi-2\obj\Debug\double_hesap_makinesi.Form1.resources
+D:\VB\hesap makinesi-2\obj\Debug\double_hesap_makinesi.Properties.Resources.resources
+D:\VB\hesap makinesi-2\obj\Debug\double hesap makinesi.csproj.GenerateResource.cache
+D:\VB\hesap makinesi-2\obj\Debug\double hesap makinesi.csproj.CoreCompileInputs.cache
+D:\VB\hesap makinesi-2\obj\Debug\double hesap makinesi.exe
+D:\VB\hesap makinesi-2\obj\Debug\double hesap makinesi.pdb
